@@ -1,0 +1,6 @@
+C:\Users\HP\Documents\Testing\Employee Project\EmployeeProject\bin\Debug\EmployeeProject.exe.config
+C:\Users\HP\Documents\Testing\Employee Project\EmployeeProject\bin\Debug\EmployeeProject.exe
+C:\Users\HP\Documents\Testing\Employee Project\EmployeeProject\bin\Debug\EmployeeProject.pdb
+C:\Users\HP\Documents\Testing\Employee Project\EmployeeProject\obj\Debug\EmployeeProject.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Testing\Employee Project\EmployeeProject\obj\Debug\EmployeeProject.exe
+C:\Users\HP\Documents\Testing\Employee Project\EmployeeProject\obj\Debug\EmployeeProject.pdb
